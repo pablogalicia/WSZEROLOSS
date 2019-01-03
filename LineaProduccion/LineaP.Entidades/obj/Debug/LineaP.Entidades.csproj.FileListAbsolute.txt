@@ -1,0 +1,14 @@
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\LineaProduccion\LineaP.Entidades\bin\Debug\LineaP.Entidades.dll
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\LineaProduccion\LineaP.Entidades\bin\Debug\LineaP.Entidades.pdb
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\LineaProduccion\LineaP.Entidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\LineaProduccion\LineaP.Entidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\LineaProduccion\LineaP.Entidades\obj\Debug\LineaP.Entidades.dll
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\LineaProduccion\LineaP.Entidades\obj\Debug\LineaP.Entidades.pdb
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\LineaProduccion\LineaP.Entidades\obj\Debug\LineaP.Entidades.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\LineaProduccion\LineaP.Entidades\bin\Debug\LineaP.Entidades.dll
+C:\inetpub\wwwroot\LineaProduccion\LineaP.Entidades\bin\Debug\LineaP.Entidades.pdb
+C:\inetpub\wwwroot\LineaProduccion\LineaP.Entidades\bin\Debug\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\LineaProduccion\LineaP.Entidades\bin\Debug\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\LineaProduccion\LineaP.Entidades\obj\Debug\LineaP.Entidades.dll
+C:\inetpub\wwwroot\LineaProduccion\LineaP.Entidades\obj\Debug\LineaP.Entidades.pdb
+C:\inetpub\wwwroot\LineaProduccion\LineaP.Entidades\obj\Debug\LineaP.Entidades.csprojResolveAssemblyReference.cache

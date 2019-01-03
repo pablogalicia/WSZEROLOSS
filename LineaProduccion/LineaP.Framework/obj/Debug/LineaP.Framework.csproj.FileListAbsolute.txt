@@ -1,0 +1,21 @@
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\LineaProduccion\LineaP.Framework\bin\Debug\LineaP.Framework.dll
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\LineaProduccion\LineaP.Framework\bin\Debug\LineaP.Framework.pdb
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\LineaProduccion\LineaP.Framework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\LineaProduccion\LineaP.Framework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\LineaProduccion\LineaP.Framework\obj\Debug\LineaP.Framework.dll
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\LineaProduccion\LineaP.Framework\obj\Debug\LineaP.Framework.pdb
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\LineaProduccion\LineaP.Framework\obj\Debug\LineaP.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\PruebasMSD\LineaProduccion\LineaP.Framework\bin\Debug\LineaP.Framework.dll
+C:\Users\Mario\Desktop\PruebasMSD\LineaProduccion\LineaP.Framework\bin\Debug\LineaP.Framework.pdb
+C:\Users\Mario\Desktop\PruebasMSD\LineaProduccion\LineaP.Framework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario\Desktop\PruebasMSD\LineaProduccion\LineaP.Framework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mario\Desktop\PruebasMSD\LineaProduccion\LineaP.Framework\obj\Debug\LineaP.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\PruebasMSD\LineaProduccion\LineaP.Framework\obj\Debug\LineaP.Framework.dll
+C:\Users\Mario\Desktop\PruebasMSD\LineaProduccion\LineaP.Framework\obj\Debug\LineaP.Framework.pdb
+C:\inetpub\wwwroot\LineaProduccion\LineaP.Framework\bin\Debug\LineaP.Framework.dll
+C:\inetpub\wwwroot\LineaProduccion\LineaP.Framework\bin\Debug\LineaP.Framework.pdb
+C:\inetpub\wwwroot\LineaProduccion\LineaP.Framework\bin\Debug\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\LineaProduccion\LineaP.Framework\bin\Debug\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\LineaProduccion\LineaP.Framework\obj\Debug\LineaP.Framework.dll
+C:\inetpub\wwwroot\LineaProduccion\LineaP.Framework\obj\Debug\LineaP.Framework.pdb
+C:\inetpub\wwwroot\LineaProduccion\LineaP.Framework\obj\Debug\LineaP.Framework.csprojResolveAssemblyReference.cache
