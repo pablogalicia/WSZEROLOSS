@@ -17,6 +17,7 @@ public class WSLinProClass : System.Web.Services.WebService {
         try
         {
             return Negocio.NegInsertaLectura(lectura);
+
         }
         catch (Exception ex)
         {
